@@ -1,0 +1,16 @@
+python-dotenv==1.2.1
+ollama==0.6.1
+langchain==1.2.7
+langchain-ollama==1.0.1
+langchain-openai==1.1.7
+numpy==2.4.1
+scipy==1.17.0
+faiss-cpu==1.13.2
+langchain-text-splitters==1.1.1
+# lab-04
+scikit-learn==1.8.0
+pandas==3.0.2
+matplotlib==3.10.8
+seaborn==0.13.2
+nltk==3.9.4
+rouge-score==0.1.2
