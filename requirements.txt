@@ -1,0 +1,8 @@
+numpy
+python-dotenv
+ollama
+langchain
+langchain-community
+langchain-openai
+langchain-ollama
+chromadb==1.5.8
